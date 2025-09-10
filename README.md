@@ -113,6 +113,12 @@ Generate data using
 selfconsistent_lattice3d_absorbing.m
 selfconsistent_lattice3d_spontaneous.m 
 
+Also load
+Lattice_nonlinsweep_d3_Ntrials100_N3375_Tmax1000_J1.18_Eleak-1.7246
+Lattice_nonlinsweep_d3_Ntrials100_N3375_Tmax1000_J1.5_Eleak-3.625.txt
+Lattice_nonlinsweep_d3_Ntrials100_N3375_Tmax1000_J2_Eleak-4.875.txt
+
+
 Plot the data using
 selfcon_nonlinplotter.m
 
